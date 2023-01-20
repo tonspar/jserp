@@ -186,7 +186,9 @@ app_license = "MIT"
 
 # Authentication and authorization
 # --------------------------------
-
 # auth_hooks = [
 #	"jsfix.auth.validate"
 # ]
+
+fixtures = ["Custom Field"]
+
