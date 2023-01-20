@@ -190,5 +190,6 @@ app_license = "MIT"
 #	"jsfix.auth.validate"
 # ]
 
-fixtures = ["Custom Field"]
+
+fixtures = ["Custom Field", "Server Script"]
 
