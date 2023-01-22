@@ -191,5 +191,6 @@ app_license = "MIT"
 # ]
 
 
-fixtures = ["Custom Field", "Server Script"]
+fixtures = ["Custom Field", "Server Script", "Client Script"]
+
 

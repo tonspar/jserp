@@ -1,0 +1,13 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Client Script",
+  "dt": "Task",
+  "enabled": 1,
+  "modified": "2023-01-22 15:21:46.479715",
+  "module": null,
+  "name": "JS Client Script",
+  "script": "frappe.ui.form.on('Task',  'before_save',  function(frm) {\n        msgprint('JavaScript z frappeCloud + úprava již z vlastního prostředí');\n});",
+  "view": "Form"
+ }
+]
